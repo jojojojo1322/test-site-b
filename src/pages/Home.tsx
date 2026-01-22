@@ -29,7 +29,7 @@ export const HomePage = () => {
 
   return (
     <Layout
-      header="Commons 패키지 통합 데모"
+      header="TEST APP B 데모"
       subtitle="UI · API · Store 구성 요소를 실제 앱처럼 검증할 수 있어요."
     >
       <Stack spacing={3}>
