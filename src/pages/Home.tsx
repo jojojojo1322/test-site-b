@@ -39,7 +39,7 @@ export const HomePage = () => {
   return (
     <Layout
       header="TEST APP B 데모"
-      subtitle="각 탭에서 공통 패키지의 컴포넌트들을 확인할 수 있어요."
+      subtitle="각 탭에서 공통 패키지의 컴포넌트들을 확인 / 패키지를 통해 라이브러리 구현 테스트"
     >
       <Box sx={{ borderBottom: 1, borderColor: "divider" }}>
         <Tabs
